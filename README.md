@@ -1,4 +1,4 @@
-# Conversor de Monedas-Alura Latam
+# Conversor de Monedas - Alura Latam
 Proyecto realizado en Java que permite hacer la conversión de monedas de un país a otro utilizando la API de ExchangeRate.
 
 ## Caracteristicas:
@@ -18,5 +18,5 @@ Proyecto realizado en Java que permite hacer la conversión de monedas de un pa�
 * Ingresa el código del pais de la moneda de destino.
 * Ingresa la cantidad con la que deseas hacer la conversión.
 * Espera la respuesta y eligue si deseas continuar o salir.
-* Listo!
+ Listo, espero que disfrutes del programa ^^.
   
